@@ -1,0 +1,93 @@
+.sim{
+    color: rgb(43, 70, 226);
+    text-align:center;
+}
+a{
+    text-decoration: none;
+    color: rgb(2, 131, 182);
+ }
+ .y{
+    background-color: rgb(1, 1, 43);
+    color: rgb(186, 120, 252);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+    
+ }
+ .ye{
+    background-color: rgb(14, 61, 0);
+    color: rgb(133, 120, 252);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+ }
+ .yes{
+    background-color: rgb(43, 1, 29);
+    color: rgb(252, 120, 120);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+ }
+ .si{
+    background-color: rgb(0, 217, 255);
+    color: rgb(92, 92, 92);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+    justify-content: center; 
+    align-items: center;
+   }
+   .s{
+    background-color: rgb(6, 0, 97);
+    color: rgb(217, 255, 2);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+  }
+   .nnahh{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+     }
+  .nnah{
+    background-color: rgb(134, 0, 0);
+    color: rgba(255, 153, 153, 0.603);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+  }
+.nna{
+    background-color: rgb(140, 143, 0);
+    color: rgb(0, 0, 0);
+    width:100%;
+    max-width:590px;
+    padding: 10px;
+    border-radius: 15px;
+ }
+img{
+   width:100%;
+   max-width:300px;
+   display:block;
+   margin:20px auto;
+   border-radius:10px;
+}
+body{
+    margin:0;
+    padding:0;
+    background:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .eai{
+    max-width:700px;
+    margin:0 auto;
+    padding:20px;
+}
